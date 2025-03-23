@@ -1,29 +1,32 @@
-# Hi there, I'm Ashutosh 👋
+🚀 Hey there, I'm [Ashutosh Sharma]
+Backend Developer | Golang Enthusiast | Game Dev Hobbyist
 
-Welcome to my GitHub profile! I'm a Go enthusiast who enjoys building scalable and efficient software solutions. Here, you'll find a collection of my Go projects, contributions, and the technologies I use to create high-performance applications.
+🔹 Passionate about building scalable backend systems and optimizing performance.
+🔹 Experienced in Golang, databases, and distributed systems.
+🔹 Love working on high-performance web applications, DevOps, and automation.
+🔹 On a mission to create efficient and developer-friendly solutions.
+📌 Technologies & Skills
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, Golang, SQL, C#, JavaScript 
-- **Frameworks:** Gin, Next.js 
-- **Tools:** Git, Docker, Kubernetes, Vim
-- **Databases:** MySQL, Pocketbase, PostgreSQL, MongoDB
+💡 Languages: Golang, Python, SQL
+🌐 Web Technologies: REST APIs, gRPC, WebSockets
+🛠 Databases: PostgreSQL, MariaDB, SQLite, MongoDB
+🚀 DevOps: Docker, Traefik, Fedora Server, CI/CD
+📊 Testing: Unit Testing, Integration Testing, TDD
+🎮 Hobbies: Game Development, 3D Art, Digital Sculpting
+📂 Featured Projects
+🔹 LAN File Server with AI Moodboard | 🔗 https://github.com/ashX04/shared
 
-## 📘 My Projects
-Here are a few projects I've been working on:
-- [**Blog**]([https://github.com/ashX04/project1](https://github.com/ashX04/portfolio_website_next)) - Blog built in Next.js.
-- [**Website**]([https://github.com/ashX04/project2](https://github.com/ashX04/new_website)) - Website built in Go and Htmx.
-- [**Pong in Cli**]([https://github.com/ashX04/project3](https://github.com/ashX04/cli_pong)) - Used Go with Charm to make pong that can be played directly in the terminal.
+🚀 Tech: Golang, Tailwind, AI
+✅ Developed a file system server for artists, enabling lightning-fast uploads and AI-powered content organization.
+🔹 Scalable Web Platforms | 🔗 https://myagency-six.vercel.app/
 
-## 🌱 What I'm Currently Learning
-- Advanced concurrency patterns in Go (goroutines, channels)
-- Building and scaling microservices in Go
-- Performance optimization in Go applications
-- SelfHosting Go projects
+🚀 Tech: Astro, Next.js, Vercel
+✅ Architected multiple high-performance websites, ensuring scalability, security, and seamless integrations.
+📬 Get in Touch
 
-## 📫 How to Reach Me
-- **LinkedIn:** [linkedin.com/in/ashutosh](linkedin.com/in/ashutosh-sharma-371588174)
+💼 Portfolio: [ashutosh-nu.vercel.app](https://ashutosh-nu.vercel.app/)
+📧 Email: [ashu0499@hotmail.com](ashu0499@hotmail.com)
+🔗 LinkedIn: [linkedin.com/in/ashutosh](linkedin.com/in/ashutosh-sharma-371588174)
 
-## 💬 Let's Connect
-Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
-
+👀 Check out my repos & feel free to contribute! 🚀
 ---
